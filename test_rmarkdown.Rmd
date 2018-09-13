@@ -1,6 +1,7 @@
 ---
 title: "Simple document"
 output: html_document
+# if the output is github_document, it is more easy to read in github
 ---
 
 I'm an R Markdown document! 
